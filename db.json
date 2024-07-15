@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Guitar",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Ukelele",
+      "price": 75.67
+    },
+    {
+      "id": 4,
+      "name": "Comb",
+      "price": 12.12
+    },
+    {
+      "id": 5,
+      "name": "PS5",
+      "price": 660.66
+    },
+    {
+      "id": 6,
+      "name": "Table Tennis ball",
+      "price": 15.13
+    },
+    {
+      "id": 7,
+      "name": "Cricket Bat",
+      "price": 19.93
+    }
+  ],
+  "orders": [
+    {
+      "id": "377d",
+      "name": "xzc",
+      "product": "zxc",
+      "quantity": 1
+    },
+    {
+      "id": "ad1b",
+      "name": "zdc",
+      "product": "xdc",
+      "quantity": 1
+    },
+    {
+      "id": "1668",
+      "name": "Nikhilesh",
+      "product": "Guitar",
+      "quantity": 1
+    },
+    {
+      "id": "4fe2",
+      "name": "nikhil",
+      "product": "comb",
+      "quantity": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": 4,
+      "name": "Comb",
+      "price": 12.12
+    },
+    {
+      "id": 2,
+      "name": "Ukelele",
+      "price": 75.67
+    },
+    {
+      "id": 1,
+      "name": "Guitar",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "name": "Comb",
+      "price": 12.12
+    }
+  ],
+  "users": [
+    {
+      "id": "3033",
+      "username": "nikhilesh",
+      "password": "nikhilesh@03"
+    },
+    {
+      "id": "ef49",
+      "username": "nikhil",
+      "password": "546465"
+    }
+  ]
+}
